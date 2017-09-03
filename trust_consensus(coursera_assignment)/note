@@ -1,0 +1,1 @@
+This solution cannot be called consensus. All nodes have common transaction pool so there is no reason to be concerned about consensus at the first place. Consensus is a problen when every node has its own transactions. 
